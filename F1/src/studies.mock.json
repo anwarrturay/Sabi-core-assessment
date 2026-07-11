@@ -1,0 +1,597 @@
+[
+  {
+    "id": "mock-001",
+    "title": "Mixed-methods evaluation of school-based deworming programmes on stunting prevalence in Senegal",
+    "authors": [
+      "Emmanuel Rahman",
+      "Ibrahim Achieng"
+    ],
+    "year": 2022,
+    "abstract": "Background: Stunting prevalence remains a persistent challenge in Senegal, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 6,931 participants to evaluate the effect of school-based deworming programmes. Participants were followed for 6 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in stunting prevalence (adjusted effect size 0.39, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: School-based deworming programmes may be a scalable approach to improving stunting prevalence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-002",
+    "title": "Mixed-methods evaluation of community health worker home visits on maternal mortality in Nigeria",
+    "authors": [
+      "Mariama Njoroge",
+      "Mariama Adeyemi",
+      "Mariama Banda",
+      "Zainab Okafor"
+    ],
+    "year": 2016,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Nigeria, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 6,188 participants to evaluate the effect of community health worker home visits. Participants were followed for 23 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in maternal mortality (adjusted effect size 0.46, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Community health worker home visits may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-003",
+    "title": "Pragmatic randomised trial of SMS medication reminders on maternal mortality in Senegal",
+    "authors": [
+      "Priya Rahman",
+      "Ibrahim Sharma",
+      "Ngozi Nkosi",
+      "Kwame Sesay"
+    ],
+    "year": 2018,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Senegal, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a pragmatic randomised trial across multiple districts, enrolling 7,829 participants to evaluate the effect of SMS medication reminders. Participants were followed for 19 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in maternal mortality (adjusted effect size 0.24, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: SMS medication reminders may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-004",
+    "title": "Cluster-randomised controlled trial of solar-powered cold chain storage on malaria incidence in Ghana",
+    "authors": [
+      "Emmanuel Adeyemi",
+      "Priya Conteh",
+      "Zainab Adeyemi"
+    ],
+    "year": 2017,
+    "abstract": "Background: Malaria incidence remains a persistent challenge in Ghana, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 558 participants to evaluate the effect of solar-powered cold chain storage. Participants were followed for 6 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on malaria incidence (adjusted effect size 0.21, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Solar-powered cold chain storage may be a scalable approach to improving malaria incidence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-005",
+    "title": "Stepped-wedge trial of task-shifted mental health counselling on childhood immunisation coverage in Senegal",
+    "authors": [
+      "Kwame Okafor",
+      "Ngozi Kamara"
+    ],
+    "year": 2014,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Senegal, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 1,844 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 16 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in childhood immunisation coverage (adjusted effect size 0.22, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-006",
+    "title": "Prospective cohort study of insecticide-treated bed net distribution on treatment adherence rates in Ethiopia",
+    "authors": [
+      "Mariama Mensah",
+      "Mariama Rahman",
+      "Sarah Osei",
+      "Emmanuel Mensah"
+    ],
+    "year": 2018,
+    "abstract": "Background: Treatment adherence rates remains a persistent challenge in Ethiopia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 2,477 participants to evaluate the effect of insecticide-treated bed net distribution. Participants were followed for 11 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in treatment adherence rates (adjusted effect size 0.69, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Insecticide-treated bed net distribution may be a scalable approach to improving treatment adherence rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-007",
+    "title": "Quasi-experimental difference-in-differences study of SMS medication reminders on out-of-pocket health expenditure in Nigeria",
+    "authors": [
+      "Chidi Mensah",
+      "Ibrahim Banda",
+      "Mohamed Okafor"
+    ],
+    "year": 2013,
+    "abstract": "Background: Out-of-pocket health expenditure remains a persistent challenge in Nigeria, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 3,093 participants to evaluate the effect of SMS medication reminders. Participants were followed for 16 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in out-of-pocket health expenditure (adjusted effect size 0.37, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: SMS medication reminders may be a scalable approach to improving out-of-pocket health expenditure, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-008",
+    "title": "Pragmatic randomised trial of SMS medication reminders on vaccine wastage rates in Sierra Leone",
+    "authors": [
+      "Chidi Uwimana",
+      "Mohamed Kamara",
+      "Mariama Turay"
+    ],
+    "year": 2019,
+    "abstract": "Background: Vaccine wastage rates remains a persistent challenge in Sierra Leone, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a pragmatic randomised trial across multiple districts, enrolling 3,292 participants to evaluate the effect of SMS medication reminders. Participants were followed for 33 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in vaccine wastage rates (adjusted effect size 0.68, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: SMS medication reminders may be a scalable approach to improving vaccine wastage rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-009",
+    "title": "Cluster-randomised controlled trial of solar-powered cold chain storage on diagnostic turnaround time in Tanzania",
+    "authors": [
+      "Kwame Patel",
+      "Daniel Conteh",
+      "Priya Mwangi"
+    ],
+    "year": 2016,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in Tanzania, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 9,150 participants to evaluate the effect of solar-powered cold chain storage. Participants were followed for 11 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on diagnostic turnaround time (adjusted effect size 0.61, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Solar-powered cold chain storage may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-010",
+    "title": "Mixed-methods evaluation of community health worker home visits on treatment adherence rates in Malawi",
+    "authors": [
+      "Esther Turay",
+      "Chidi Patel",
+      "Mohamed Sesay",
+      "Esther Patel"
+    ],
+    "year": 2023,
+    "abstract": "Background: Treatment adherence rates remains a persistent challenge in Malawi, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 4,545 participants to evaluate the effect of community health worker home visits. Participants were followed for 23 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in treatment adherence rates (adjusted effect size 0.52, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Community health worker home visits may be a scalable approach to improving treatment adherence rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-011",
+    "title": "Mixed-methods evaluation of insecticide-treated bed net distribution on postpartum depression scores in Bangladesh",
+    "authors": [
+      "Zainab Koroma",
+      "Grace Koroma",
+      "Grace Diallo"
+    ],
+    "year": 2022,
+    "abstract": "Background: Postpartum depression scores remains a persistent challenge in Bangladesh, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 9,086 participants to evaluate the effect of insecticide-treated bed net distribution. Participants were followed for 27 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on postpartum depression scores (adjusted effect size 0.36, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Insecticide-treated bed net distribution may be a scalable approach to improving postpartum depression scores, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-012",
+    "title": "Interrupted time-series analysis of peer-led health education sessions on malaria incidence in Rwanda",
+    "authors": [
+      "Mohamed Nkosi",
+      "Chidi Diallo"
+    ],
+    "year": 2016,
+    "abstract": "Background: Malaria incidence remains a persistent challenge in Rwanda, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 2,197 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 13 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in malaria incidence (adjusted effect size 0.60, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving malaria incidence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-013",
+    "title": "Mixed-methods evaluation of conditional cash transfers on postpartum depression scores in Uganda",
+    "authors": [
+      "Samuel Rahman",
+      "Aisha Okafor",
+      "Grace Achieng",
+      "Joseph Sharma"
+    ],
+    "year": 2016,
+    "abstract": "Background: Postpartum depression scores remains a persistent challenge in Uganda, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 6,880 participants to evaluate the effect of conditional cash transfers. Participants were followed for 23 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on postpartum depression scores (adjusted effect size 0.36, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving postpartum depression scores, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-014",
+    "title": "Cluster-randomised controlled trial of supplementary nutrition programmes on antenatal attendance in Tanzania",
+    "authors": [
+      "Kwame Sesay",
+      "Mariama Rahman",
+      "Mohamed Sharma"
+    ],
+    "year": 2015,
+    "abstract": "Background: Antenatal attendance remains a persistent challenge in Tanzania, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 9,124 participants to evaluate the effect of supplementary nutrition programmes. Participants were followed for 30 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on antenatal attendance (adjusted effect size 0.22, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Supplementary nutrition programmes may be a scalable approach to improving antenatal attendance, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-015",
+    "title": "Cluster-randomised controlled trial of peer-led health education sessions on under-five mortality in Kenya",
+    "authors": [
+      "Kwame Osei",
+      "Rajesh Turay"
+    ],
+    "year": 2018,
+    "abstract": "Background: Under-five mortality remains a persistent challenge in Kenya, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 9,958 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 30 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in under-five mortality (adjusted effect size 0.16, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving under-five mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-016",
+    "title": "Stepped-wedge trial of supplementary nutrition programmes on maternal mortality in Zambia",
+    "authors": [
+      "Ibrahim Mensah",
+      "Ngozi Bangura",
+      "Fatou Turay",
+      "Joseph Bangura"
+    ],
+    "year": 2018,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Zambia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 320 participants to evaluate the effect of supplementary nutrition programmes. Participants were followed for 30 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in maternal mortality (adjusted effect size 0.50, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Supplementary nutrition programmes may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-017",
+    "title": "Cluster-randomised controlled trial of supplementary nutrition programmes on postpartum depression scores in Nepal",
+    "authors": [
+      "Grace Okafor",
+      "Fatou Sesay",
+      "Aisha Adeyemi",
+      "Samuel Conteh"
+    ],
+    "year": 2019,
+    "abstract": "Background: Postpartum depression scores remains a persistent challenge in Nepal, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 1,158 participants to evaluate the effect of supplementary nutrition programmes. Participants were followed for 13 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in postpartum depression scores (adjusted effect size 0.28, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Supplementary nutrition programmes may be a scalable approach to improving postpartum depression scores, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-018",
+    "title": "Interrupted time-series analysis of point-of-care rapid diagnostic testing on childhood immunisation coverage in Zambia",
+    "authors": [
+      "Aisha Conteh",
+      "Sarah Nkosi",
+      "Daniel Diallo"
+    ],
+    "year": 2015,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Zambia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 3,261 participants to evaluate the effect of point-of-care rapid diagnostic testing. Participants were followed for 29 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on childhood immunisation coverage (adjusted effect size 0.27, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Point-of-care rapid diagnostic testing may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-019",
+    "title": "Matched case-control study of peer-led health education sessions on diagnostic turnaround time in Kenya",
+    "authors": [
+      "Ngozi Osei",
+      "Kwame Osei"
+    ],
+    "year": 2024,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in Kenya, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a matched case-control study across multiple districts, enrolling 7,736 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 25 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in diagnostic turnaround time (adjusted effect size 0.15, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-020",
+    "title": "Mixed-methods evaluation of peer-led health education sessions on maternal mortality in Kenya",
+    "authors": [
+      "Daniel Njoroge",
+      "Esther Njoroge",
+      "Chidi Adeyemi",
+      "Chidi Turay"
+    ],
+    "year": 2021,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Kenya, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 6,450 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 7 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in maternal mortality (adjusted effect size 0.67, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-021",
+    "title": "Stepped-wedge trial of insecticide-treated bed net distribution on antenatal attendance in India",
+    "authors": [
+      "Rajesh Kamara",
+      "Rajesh Sesay",
+      "Grace Rahman"
+    ],
+    "year": 2014,
+    "abstract": "Background: Antenatal attendance remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 6,343 participants to evaluate the effect of insecticide-treated bed net distribution. Participants were followed for 14 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on antenatal attendance (adjusted effect size 0.29, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Insecticide-treated bed net distribution may be a scalable approach to improving antenatal attendance, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-022",
+    "title": "Prospective cohort study of school-based deworming programmes on postpartum depression scores in Indonesia",
+    "authors": [
+      "Samuel Nkosi",
+      "Kwame Conteh"
+    ],
+    "year": 2015,
+    "abstract": "Background: Postpartum depression scores remains a persistent challenge in Indonesia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 2,173 participants to evaluate the effect of school-based deworming programmes. Participants were followed for 13 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in postpartum depression scores (adjusted effect size 0.59, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: School-based deworming programmes may be a scalable approach to improving postpartum depression scores, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-023",
+    "title": "Stepped-wedge trial of digital immunisation registries on diagnostic turnaround time in Malawi",
+    "authors": [
+      "Aminata Turay",
+      "Kwame Achieng",
+      "Rajesh Bangura",
+      "Mariama Achieng"
+    ],
+    "year": 2015,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in Malawi, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 6,257 participants to evaluate the effect of digital immunisation registries. Participants were followed for 24 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in diagnostic turnaround time (adjusted effect size 0.55, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Digital immunisation registries may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-024",
+    "title": "Prospective cohort study of conditional cash transfers on vaccine wastage rates in Nigeria",
+    "authors": [
+      "Sarah Turay",
+      "Mohamed Diallo",
+      "Emmanuel Achieng"
+    ],
+    "year": 2013,
+    "abstract": "Background: Vaccine wastage rates remains a persistent challenge in Nigeria, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 7,010 participants to evaluate the effect of conditional cash transfers. Participants were followed for 9 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in vaccine wastage rates (adjusted effect size 0.53, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving vaccine wastage rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-025",
+    "title": "Cluster-randomised controlled trial of point-of-care rapid diagnostic testing on under-five mortality in Sierra Leone",
+    "authors": [
+      "Ngozi Adeyemi",
+      "Emmanuel Bangura"
+    ],
+    "year": 2015,
+    "abstract": "Background: Under-five mortality remains a persistent challenge in Sierra Leone, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 8,529 participants to evaluate the effect of point-of-care rapid diagnostic testing. Participants were followed for 26 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on under-five mortality (adjusted effect size 0.37, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Point-of-care rapid diagnostic testing may be a scalable approach to improving under-five mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-026",
+    "title": "Prospective cohort study of conditional cash transfers on under-five mortality in India",
+    "authors": [
+      "Mohamed Kamara",
+      "Ngozi Sharma",
+      "Daniel Mensah"
+    ],
+    "year": 2023,
+    "abstract": "Background: Under-five mortality remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 3,454 participants to evaluate the effect of conditional cash transfers. Participants were followed for 22 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on under-five mortality (adjusted effect size 0.62, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving under-five mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-027",
+    "title": "Prospective cohort study of school-based deworming programmes on out-of-pocket health expenditure in Bangladesh",
+    "authors": [
+      "Mohamed Adeyemi",
+      "Rajesh Mwangi"
+    ],
+    "year": 2016,
+    "abstract": "Background: Out-of-pocket health expenditure remains a persistent challenge in Bangladesh, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 4,199 participants to evaluate the effect of school-based deworming programmes. Participants were followed for 16 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in out-of-pocket health expenditure (adjusted effect size 0.23, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: School-based deworming programmes may be a scalable approach to improving out-of-pocket health expenditure, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-028",
+    "title": "Interrupted time-series analysis of school-based deworming programmes on diagnostic turnaround time in Malawi",
+    "authors": [
+      "Emmanuel Achieng",
+      "Priya Bangura",
+      "Grace Achieng"
+    ],
+    "year": 2015,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in Malawi, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 9,573 participants to evaluate the effect of school-based deworming programmes. Participants were followed for 23 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in diagnostic turnaround time (adjusted effect size 0.47, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: School-based deworming programmes may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-029",
+    "title": "Quasi-experimental difference-in-differences study of supplementary nutrition programmes on childhood immunisation coverage in Indonesia",
+    "authors": [
+      "Kwame Banda",
+      "Aisha Uwimana"
+    ],
+    "year": 2018,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Indonesia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 1,000 participants to evaluate the effect of supplementary nutrition programmes. Participants were followed for 8 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in childhood immunisation coverage (adjusted effect size 0.58, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Supplementary nutrition programmes may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-030",
+    "title": "Quasi-experimental difference-in-differences study of point-of-care rapid diagnostic testing on under-five mortality in India",
+    "authors": [
+      "Fatou Bangura",
+      "Esther Mensah",
+      "Priya Banda"
+    ],
+    "year": 2021,
+    "abstract": "Background: Under-five mortality remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 4,447 participants to evaluate the effect of point-of-care rapid diagnostic testing. Participants were followed for 26 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on under-five mortality (adjusted effect size 0.64, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Point-of-care rapid diagnostic testing may be a scalable approach to improving under-five mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-031",
+    "title": "Stepped-wedge trial of task-shifted mental health counselling on treatment adherence rates in Indonesia",
+    "authors": [
+      "Priya Bangura",
+      "Sarah Sharma",
+      "Samuel Sesay"
+    ],
+    "year": 2015,
+    "abstract": "Background: Treatment adherence rates remains a persistent challenge in Indonesia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 3,418 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 7 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in treatment adherence rates (adjusted effect size 0.36, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving treatment adherence rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-032",
+    "title": "Cluster-randomised controlled trial of conditional cash transfers on diagnostic turnaround time in India",
+    "authors": [
+      "Chidi Mwangi",
+      "Aisha Conteh",
+      "Esther Okafor"
+    ],
+    "year": 2015,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 180 participants to evaluate the effect of conditional cash transfers. Participants were followed for 23 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in diagnostic turnaround time (adjusted effect size 0.21, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-033",
+    "title": "Stepped-wedge trial of conditional cash transfers on malaria incidence in Zambia",
+    "authors": [
+      "Sarah Sharma",
+      "Fatou Diallo"
+    ],
+    "year": 2017,
+    "abstract": "Background: Malaria incidence remains a persistent challenge in Zambia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 1,639 participants to evaluate the effect of conditional cash transfers. Participants were followed for 18 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on malaria incidence (adjusted effect size 0.20, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving malaria incidence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-034",
+    "title": "Mixed-methods evaluation of conditional cash transfers on antenatal attendance in Ethiopia",
+    "authors": [
+      "Esther Uwimana",
+      "David Rahman",
+      "Esther Turay",
+      "David Mwangi"
+    ],
+    "year": 2017,
+    "abstract": "Background: Antenatal attendance remains a persistent challenge in Ethiopia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 506 participants to evaluate the effect of conditional cash transfers. Participants were followed for 13 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a statistically significant improvement in antenatal attendance (adjusted effect size 0.15, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving antenatal attendance, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-035",
+    "title": "Interrupted time-series analysis of peer-led health education sessions on diagnostic turnaround time in Bangladesh",
+    "authors": [
+      "Fatou Rahman",
+      "Joseph Osei",
+      "Fatou Njoroge"
+    ],
+    "year": 2015,
+    "abstract": "Background: Diagnostic turnaround time remains a persistent challenge in Bangladesh, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 6,079 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 13 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in diagnostic turnaround time (adjusted effect size 0.26, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving diagnostic turnaround time, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-036",
+    "title": "Interrupted time-series analysis of digital immunisation registries on childhood immunisation coverage in Tanzania",
+    "authors": [
+      "Aisha Sesay",
+      "Rajesh Sharma",
+      "Sarah Nkosi"
+    ],
+    "year": 2022,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Tanzania, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 1,930 participants to evaluate the effect of digital immunisation registries. Participants were followed for 14 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in childhood immunisation coverage (adjusted effect size 0.42, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Digital immunisation registries may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-037",
+    "title": "Prospective cohort study of task-shifted mental health counselling on maternal mortality in Indonesia",
+    "authors": [
+      "Joseph Njoroge",
+      "Fatou Mwangi",
+      "Kwame Mensah",
+      "Priya Sharma"
+    ],
+    "year": 2017,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Indonesia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 599 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 10 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in maternal mortality (adjusted effect size 0.65, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-038",
+    "title": "Mixed-methods evaluation of task-shifted mental health counselling on vaccine wastage rates in India",
+    "authors": [
+      "Joseph Sharma",
+      "Esther Mensah"
+    ],
+    "year": 2024,
+    "abstract": "Background: Vaccine wastage rates remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 1,222 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 8 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in vaccine wastage rates (adjusted effect size 0.46, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving vaccine wastage rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-039",
+    "title": "Pragmatic randomised trial of insecticide-treated bed net distribution on childhood immunisation coverage in Sierra Leone",
+    "authors": [
+      "Kwame Diallo",
+      "Fatou Achieng",
+      "Chidi Patel"
+    ],
+    "year": 2016,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Sierra Leone, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a pragmatic randomised trial across multiple districts, enrolling 533 participants to evaluate the effect of insecticide-treated bed net distribution. Participants were followed for 34 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on childhood immunisation coverage (adjusted effect size 0.21, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Insecticide-treated bed net distribution may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-040",
+    "title": "Cluster-randomised controlled trial of peer-led health education sessions on vaccine wastage rates in Rwanda",
+    "authors": [
+      "Esther Achieng",
+      "Aminata Diallo",
+      "Aisha Turay",
+      "Samuel Banda"
+    ],
+    "year": 2014,
+    "abstract": "Background: Vaccine wastage rates remains a persistent challenge in Rwanda, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a cluster-randomised controlled trial across multiple districts, enrolling 8,963 participants to evaluate the effect of peer-led health education sessions. Participants were followed for 8 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in vaccine wastage rates (adjusted effect size 0.26, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Peer-led health education sessions may be a scalable approach to improving vaccine wastage rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-041",
+    "title": "Stepped-wedge trial of task-shifted mental health counselling on childhood immunisation coverage in Uganda",
+    "authors": [
+      "Grace Kamara",
+      "David Kamara"
+    ],
+    "year": 2023,
+    "abstract": "Background: Childhood immunisation coverage remains a persistent challenge in Uganda, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a stepped-wedge trial across multiple districts, enrolling 9,374 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 27 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in childhood immunisation coverage (adjusted effect size 0.56, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving childhood immunisation coverage, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-042",
+    "title": "Interrupted time-series analysis of conditional cash transfers on stunting prevalence in India",
+    "authors": [
+      "Sarah Patel",
+      "Ngozi Achieng"
+    ],
+    "year": 2023,
+    "abstract": "Background: Stunting prevalence remains a persistent challenge in India, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 9,514 participants to evaluate the effect of conditional cash transfers. Participants were followed for 28 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in stunting prevalence (adjusted effect size 0.64, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving stunting prevalence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-043",
+    "title": "Quasi-experimental difference-in-differences study of mobile antenatal care clinics on antenatal attendance in Kenya",
+    "authors": [
+      "Chidi Mensah",
+      "Mariama Patel",
+      "Emmanuel Kamara"
+    ],
+    "year": 2014,
+    "abstract": "Background: Antenatal attendance remains a persistent challenge in Kenya, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 5,560 participants to evaluate the effect of mobile antenatal care clinics. Participants were followed for 35 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in antenatal attendance (adjusted effect size 0.11, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Mobile antenatal care clinics may be a scalable approach to improving antenatal attendance, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-044",
+    "title": "Prospective cohort study of school-based deworming programmes on maternal mortality in Malawi",
+    "authors": [
+      "Joseph Sesay",
+      "Samuel Uwimana",
+      "Ibrahim Adeyemi"
+    ],
+    "year": 2024,
+    "abstract": "Background: Maternal mortality remains a persistent challenge in Malawi, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a prospective cohort study across multiple districts, enrolling 6,655 participants to evaluate the effect of school-based deworming programmes. Participants were followed for 7 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in maternal mortality (adjusted effect size 0.50, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: School-based deworming programmes may be a scalable approach to improving maternal mortality, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-045",
+    "title": "Mixed-methods evaluation of task-shifted mental health counselling on postpartum depression scores in Ghana",
+    "authors": [
+      "Emmanuel Sesay",
+      "Fatou Rahman"
+    ],
+    "year": 2016,
+    "abstract": "Background: Postpartum depression scores remains a persistent challenge in Ghana, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a mixed-methods evaluation across multiple districts, enrolling 9,817 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 10 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in postpartum depression scores (adjusted effect size 0.58, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving postpartum depression scores, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-046",
+    "title": "Pragmatic randomised trial of task-shifted mental health counselling on care-seeking behaviour in Bangladesh",
+    "authors": [
+      "Mariama Patel",
+      "Ibrahim Bangura"
+    ],
+    "year": 2016,
+    "abstract": "Background: Care-seeking behaviour remains a persistent challenge in Bangladesh, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a pragmatic randomised trial across multiple districts, enrolling 2,251 participants to evaluate the effect of task-shifted mental health counselling. Participants were followed for 26 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with mixed effects on care-seeking behaviour (adjusted effect size 0.16, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Task-shifted mental health counselling may be a scalable approach to improving care-seeking behaviour, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-047",
+    "title": "Quasi-experimental difference-in-differences study of conditional cash transfers on malaria incidence in Sierra Leone",
+    "authors": [
+      "Sarah Sesay",
+      "Mariama Nkosi",
+      "Grace Adeyemi"
+    ],
+    "year": 2020,
+    "abstract": "Background: Malaria incidence remains a persistent challenge in Sierra Leone, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 6,789 participants to evaluate the effect of conditional cash transfers. Participants were followed for 18 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with no measurable change in malaria incidence (adjusted effect size 0.22, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Conditional cash transfers may be a scalable approach to improving malaria incidence, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-048",
+    "title": "Quasi-experimental difference-in-differences study of solar-powered cold chain storage on vaccine wastage rates in Malawi",
+    "authors": [
+      "Aisha Banda",
+      "Zainab Nkosi",
+      "Rajesh Sharma"
+    ],
+    "year": 2022,
+    "abstract": "Background: Vaccine wastage rates remains a persistent challenge in Malawi, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a quasi-experimental difference-in-differences study across multiple districts, enrolling 5,247 participants to evaluate the effect of solar-powered cold chain storage. Participants were followed for 10 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a modest but non-significant reduction in vaccine wastage rates (adjusted effect size 0.61, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Solar-powered cold chain storage may be a scalable approach to improving vaccine wastage rates, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-049",
+    "title": "Matched case-control study of mobile antenatal care clinics on out-of-pocket health expenditure in Ethiopia",
+    "authors": [
+      "Aminata Banda",
+      "Chidi Banda"
+    ],
+    "year": 2024,
+    "abstract": "Background: Out-of-pocket health expenditure remains a persistent challenge in Ethiopia, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a matched case-control study across multiple districts, enrolling 6,119 participants to evaluate the effect of mobile antenatal care clinics. Participants were followed for 12 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in out-of-pocket health expenditure (adjusted effect size 0.14, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Mobile antenatal care clinics may be a scalable approach to improving out-of-pocket health expenditure, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  },
+  {
+    "id": "mock-050",
+    "title": "Interrupted time-series analysis of point-of-care rapid diagnostic testing on care-seeking behaviour in Ghana",
+    "authors": [
+      "Zainab Mwangi",
+      "Rajesh Diallo"
+    ],
+    "year": 2017,
+    "abstract": "Background: Care-seeking behaviour remains a persistent challenge in Ghana, particularly in rural and peri-urban districts with limited access to services. Methods: We conducted a interrupted time-series analysis across multiple districts, enrolling 3,992 participants to evaluate the effect of point-of-care rapid diagnostic testing. Participants were followed for 29 months, with the primary outcome measured through routine facility records and household surveys. Results: The intervention was associated with a large reduction in care-seeking behaviour (adjusted effect size 0.68, 95% CI reported in full text). Secondary analyses suggested effects were strongest among the lowest wealth quintile. Conclusion: Point-of-care rapid diagnostic testing may be a scalable approach to improving care-seeking behaviour, though implementation cost and health-system readiness warrant further study. (This is synthetic mock data generated for a take-home assessment.)",
+    "status": "undecided"
+  }
+]
