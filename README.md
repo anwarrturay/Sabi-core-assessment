@@ -1,6 +1,6 @@
 # Sabi-core-assessment
 A Project assessment for sabi-core
-# Sabi Core — Software Engineer (AI & Research Platforms) Take-Home
+# Sabi Core — Software Engineer Role
 
 My submission answers **three questions, one from each track**:
 
